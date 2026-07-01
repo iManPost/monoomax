@@ -407,8 +407,9 @@ const REFERRER = 'https://9.9nung.com/';
 import { movies } from './data/movies.js';
 import { series } from './data/series.js';
 import { netflixMovies } from './data/netflix.js';
-
-const items = [...movies, ...series, ...netflixMovies];
+import { anime } from './data/anime.js';
+const items = [...movies, ...series, ...netflixMovies, ...anime];
+  
 
 // ───────────────────────── STATE ─────────────────────────
 let currentGroup = 'ทั้งหมด';
