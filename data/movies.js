@@ -1,5 +1,8 @@
 export const movies = [
-   { name: 'Supergirl (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.net/wp-content/uploads/2026/06/Supergirl-2026.webp', url: 'https://media.vdohls.com/0_i-sIMipAxkN/playlist.m3u8' },
+{ name: ' บทเรียนจากรุ่นน้อง (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/06/Little-Brother-2026-e1782699589558.webp', url: 'https://media.vdohls.com/Ewu_lSb-erhTl/playlist.m3u8' },
+  { name: 'คุณสามีส์ช่วยด้วย (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.net/wp-content/uploads/2026/06/Supergirl-2026.webp', url: 'https://media.vdohls.com/Ht-ww6cq_4cQ9/playlist.m3u8' },
+  
+ { name: 'Supergirl (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.net/wp-content/uploads/2026/06/Supergirl-2026.webp', url: 'https://media.vdohls.com/0_i-sIMipAxkN/playlist.m3u8' },
   { name: 'แมนดาลอเรี่ยนและโกรกู (2026) ', group: '🎬หนังใหม่2026', logo: 'https://f.ptcdn.info/370/091/000/mpqoxshp8aiiLrW3WmE6m5-o.jpg', url: 'https://media.vdohls.com/UFBMR2-D6_zul/playlist.m3u8' },
   { name: 'มอร์ทัล คอมแบท 2(2026) ', group: '🎬หนังใหม่2026', logo: 'https://allinhd.com/wp-content/uploads/2026/05/Mortal-Kombat-II.jpg', url: 'https://player3.fastfastcdn.com/ttplaylist_b00f5b3b4e5f8ed98dd9a7a627f3cdc7720.m3u8' },
   { name: 'ยำหนังจี้ 6(2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.fast24movie.com/wp-content/uploads/2026/06/Scary-Movie-6-2026.jpg', url: 'https://media.vdohls.com/a_x-X11cJ4GGW/playlist.m3u8' },
