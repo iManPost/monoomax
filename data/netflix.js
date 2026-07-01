@@ -1,5 +1,25 @@
 export const netflixMovies = [
+
+
+     {
+    name: 'ภูเขามิอาจกั้น ',
+    group: '🎬netflix2026',
+    logo: 'https://www.nunghd4k.com/wp-content/uploads/2023/11/The-Father-Who-Moves-Mountains-2021.jpg',
+    url: 'https://api.p2p-cdnmovie.xyz/1080p/68vhtm/68vhtm/index.m3u8'
+  },
     
+     {
+    name: 'ARQ ',
+    group: '🎬netflix2026',
+    logo: 'https://www.nunghd4k.com/wp-content/uploads/2023/11/ARQ-2016.jpg',
+    url: 'https://api.p2p-cdnmovie.xyz/1080p/6qism3/6qism3/index.m3u8'
+  },
+    {
+    name: 'คนระห่ำภารกิจเดือด',
+    group: '🎬netflix2026',
+    logo: 'https://www.nunghd4k.com/wp-content/uploads/2023/11/Extraction-.jpg.webp',
+    url: 'https://master.p2p-cdnmovie.xyz/1080p/a5cvfl/a5cvfl/index.m3u8'
+  },
     {
     name: 'คนเป็นฝ่านรกซอมบี้',
     group: '🎬netflix2026',
