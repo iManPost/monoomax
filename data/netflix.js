@@ -141,6 +141,54 @@ export const netflixMovies = [
     logo: 'https://media.online-station.net/images/2026/06/d86a402604ec144bdb6df4961fc6caa1.jpg',
     url: 'https://media.vdohls.com/gxbm5Jg_YH-ZE/video.m3u8'
   },
+      {
+    name: 'คนมหัศจรรย์พลังรั่ว ตอนที่ 1',
+    group: '🎬netflix2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/05/The-WONDERfools-2026.webp',
+    url: 'https://media.vdohls.com/FMJZr_fKXP-xf/playlist.m3u8'
+  },
   
+     {
+    name: 'คนมหัศจรรย์พลังรั่ว ตอนที่ 2',
+    group: '🎬netflix2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/05/The-WONDERfools-2026.webp',
+    url: 'https://media.vdohls.com/FMJZr_fKXP-xf/playlist.m3u8'
+  },
+    {
+    name: 'คนมหัศจรรย์พลังรั่ว ตอนที่ 3',
+    group: '🎬netflix2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/05/The-WONDERfools-2026.webp',
+    url: 'https://media.vdohls.com/FMJZr_fKXP-xf/playlist.m3u8'
+  },
+      {
+    name: 'คนมหัศจรรย์พลังรั่ว ตอนที่ 4',
+    group: '🎬netflix2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/05/The-WONDERfools-2026.webp',
+    url: 'https://media.vdohls.com/FMJZr_fKXP-xf/playlist.m3u8'
+  },
+        {
+    name: 'คนมหัศจรรย์พลังรั่ว ตอนที่ 5',
+    group: '🎬netflix2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/05/The-WONDERfools-2026.webp',
+    url: 'https://media.vdohls.com/FMJZr_fKXP-xf/playlist.m3u8'
+  },
+      {
+    name: 'คนมหัศจรรย์พลังรั่ว ตอนที่ 6',
+    group: '🎬netflix2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/05/The-WONDERfools-2026.webp',
+    url: 'https://media.vdohls.com/FMJZr_fKXP-xf/playlist.m3u8'
+  },
+        {
+    name: 'คนมหัศจรรย์พลังรั่ว ตอนที่ 7',
+    group: '🎬netflix2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/05/The-WONDERfools-2026.webp',
+    url: 'https://media.vdohls.com/FMJZr_fKXP-xf/playlist.m3u8'
+  },
+    {
+    name: 'คนมหัศจรรย์พลังรั่ว ตอนที่ 8',
+    group: '🎬netflix2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/05/The-WONDERfools-2026.webp',
+    url: 'https://media.vdohls.com/FMJZr_fKXP-xf/playlist.m3u8'
+  },
 
 ];
