@@ -1,4 +1,56 @@
 export const series = [
+
+    {
+    name: 'คนมหัศจรรย์พลังรั่ว ตอนที่ 1',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/05/The-WONDERfools-2026.webp',
+    url: 'https://media.vdohls.com/FMJZr_fKXP-xf/playlist.m3u8'
+  },
+  
+     {
+    name: 'คนมหัศจรรย์พลังรั่ว ตอนที่ 2',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/05/The-WONDERfools-2026.webp',
+    url: 'https://media.vdohls.com/FMJZr_fKXP-xf/playlist.m3u8'
+  },
+    {
+    name: 'คนมหัศจรรย์พลังรั่ว ตอนที่ 3',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/05/The-WONDERfools-2026.webp',
+    url: 'https://media.vdohls.com/FMJZr_fKXP-xf/playlist.m3u8'
+  },
+      {
+    name: 'คนมหัศจรรย์พลังรั่ว ตอนที่ 4',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/05/The-WONDERfools-2026.webp',
+    url: 'https://media.vdohls.com/FMJZr_fKXP-xf/playlist.m3u8'
+  },
+        {
+    name: 'คนมหัศจรรย์พลังรั่ว ตอนที่ 5',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/05/The-WONDERfools-2026.webp',
+    url: 'https://media.vdohls.com/FMJZr_fKXP-xf/playlist.m3u8'
+  },
+      {
+    name: 'คนมหัศจรรย์พลังรั่ว ตอนที่ 6',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/05/The-WONDERfools-2026.webp',
+    url: 'https://media.vdohls.com/FMJZr_fKXP-xf/playlist.m3u8'
+  },
+        {
+    name: 'คนมหัศจรรย์พลังรั่ว ตอนที่ 7',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/05/The-WONDERfools-2026.webp',
+    url: 'https://media.vdohls.com/FMJZr_fKXP-xf/playlist.m3u8'
+  },
+    {
+    name: 'คนมหัศจรรย์พลังรั่ว ตอนที่ 8',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/05/The-WONDERfools-2026.webp',
+    url: 'https://media.vdohls.com/FMJZr_fKXP-xf/playlist.m3u8'
+  },
+  
+  
   {
     name: 'ทนายปีศาจ ตอนที่ 1',
     group: '🎬ซีรีย์2026',
